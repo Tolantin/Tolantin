@@ -11,7 +11,7 @@ Je suis actuellement en formation développeur à l’ENI, et je construis des p
 - **ENI-Enchere**  
   → une appli d’enchères en Spring Boot (Java, SQL, sécurité) faite en équipe
 
-- **Draft Tactics**  
+- **Draft Tactik**  
   → un outil de draft League of Legends avec drag & drop en JavaScript
 
 - **Nasa**  
