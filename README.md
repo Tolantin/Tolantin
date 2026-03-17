@@ -1,29 +1,39 @@
-# Nicolas Tolantin 👋
+# Nicolas Tolantin
 
-🎓 Étudiant en Concepteur Développeur d’Applications (ENI)  
-💻 Passionné par le développement web (front-end & back-end)  
+👋 Salut, moi c’est Nicolas.
 
----
-
-## 🚀 Projets principaux
-
-- 🔹 ENI-Enchere → Application d’enchères full-stack (Spring Boot, SQL, sécurité)
-- 🔹 Draft Tactik → Interface de draft LoL (JavaScript, DOM, drag & drop)
-- 🔹 Nasa → Backend Spring Boot (Java, JDBC, SQL)
-- 🔹 ENI-Memory → Projet JavaScript (DOM, logique de jeu)
-- 🔹 Feelings Quest → Mon tout premier site web (HTML/CSS)
+Je suis actuellement en formation développeur à l’ENI, et je construis des projets pour progresser en front-end et en Java / Spring.
 
 ---
 
-## 🛠️ Stack
+## 🚀 Mes projets
 
-- Front-end : HTML, CSS, JavaScript
-- Back-end : Java, Spring Boot
-- Database : SQL Server
-- Outils : Git, Gradle
+- **ENI-Enchere**  
+  → une appli d’enchères en Spring Boot (Java, SQL, sécurité) faite en équipe
+
+- **Draft Tactics**  
+  → un outil de draft League of Legends avec drag & drop en JavaScript
+
+- **Nasa**  
+  → un projet backend pour comprendre Spring Boot et le lien avec une base SQL
+
+- **ENI-Memory**  
+  → un projet JS pour travailler le DOM et la logique de jeu
+
+- **Feelings Quest**  
+  → mon tout premier site web (HTML/CSS)
+
+---
+
+## 🛠️ Ce que j’utilise
+
+- HTML / CSS / JavaScript  
+- Java / Spring Boot  
+- SQL Server  
+- Git  
 
 ---
 
 ## 🎯 Objectif
 
-Devenir développeur **front-end / full-stack junior**, en continuant à progresser sur des projets concrets.
+Continuer à progresser et trouver une opportunité pour travailler sur des projets concrets en front-end ou full-stack.
