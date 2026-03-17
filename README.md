@@ -1,16 +1,29 @@
-## Hi there 👋
+# Nicolas Tolantin 👋
 
-<!--
-**Tolantin/Tolantin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en Concepteur Développeur d’Applications (ENI)  
+💻 Passionné par le développement web (front-end & back-end)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projets principaux
+
+- 🔹 ENI-Enchere → Application d’enchères full-stack (Spring Boot, SQL, sécurité)
+- 🔹 Draft Tactik → Interface de draft LoL (JavaScript, DOM, drag & drop)
+- 🔹 Nasa → Backend Spring Boot (Java, JDBC, SQL)
+- 🔹 ENI-Memory → Projet JavaScript (DOM, logique de jeu)
+- 🔹 Feelings Quest → Mon tout premier site web (HTML/CSS)
+
+---
+
+## 🛠️ Stack
+
+- Front-end : HTML, CSS, JavaScript
+- Back-end : Java, Spring Boot
+- Database : SQL Server
+- Outils : Git, Gradle
+
+---
+
+## 🎯 Objectif
+
+Devenir développeur **front-end / full-stack junior**, en continuant à progresser sur des projets concrets.
